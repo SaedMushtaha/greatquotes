@@ -8,9 +8,6 @@
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="add.png" alt="Logo" width="800" height="500">
   </a>
-   <a href="https://miro.medium.com/max/1080/1*Z3KL8VZdP7bcmEy9YsZGKg.png">
-    <img src="add.png" alt="Logo" width="800" height="500">
-  </a>
   
   <h3 align="center">Great Quotes
     <a href="">View Demo</a></h3>
@@ -20,7 +17,11 @@
 <h3 align="center">Built with  <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Logo" width="60" height="30">
   </a>
-   <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" alt="Logo" width="60" height="30">
+  <a href="https://firebase.google.com/">
+    <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" alt="Logo" width="60" height="30">
+  </a>
+  <a href="https://reactrouter.com/en/main">
+    <img src="https://miro.medium.com/max/1080/1*Z3KL8VZdP7bcmEy9YsZGKg.png" alt="Logo" width="60" height="30">
   </a>
   </h3>
 

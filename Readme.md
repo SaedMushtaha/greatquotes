@@ -31,7 +31,7 @@
 
 Saed Mushtaha - (https://saedmu.com) - saedmushtaha@hotmail.com
 
-Project Link: [https://github.com/SaedMushtaha/react-complete-guide](https://github.com/SaedMushtaha/react-complete-guide)
+Project Link: [https://github.com/SaedMushtaha/greatquotes](https://github.com/SaedMushtaha/greatquotes)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
